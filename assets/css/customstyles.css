@@ -1,0 +1,57 @@
+.link {
+   color:#0404B4;
+   text-decoration: none; 
+   background-color: none;
+}
+
+.contact-banner i {
+	color: #222;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.tagline {
+  text-transform: none;
+  font-size: 22px;
+  margin: 5px 0 15px;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+}
+
+.black {
+	color:#000000;
+}
+
+h3:before { 
+  display: block; 
+  content: " "; 
+  margin-top: -65px; 
+  height: 65px; 
+  visibility: hidden; 
+}
+
+h2:before { 
+  display: block; 
+  content: " "; 
+  margin-top: -65px; 
+  height: 65px; 
+  visibility: hidden; 
+}
+
+.subtitle {
+  margin-left:-2rem;
+}
+
+#blog {
+  background: #F01B00;
+  color: #FFF;
+}
+
+#blog h1, #blog h2, #blog h3, #blog h4, #blog h5, #blog h6, #blog a:link, #blog a:visited, #blog a:hover, #blog a:active{
+  color: #FFF;
+}
